@@ -1,7 +1,8 @@
 # Chef
 .chef/*.pem
 .chef/encrypted_data_bag_secret
-
+*.txt
+*.pem
 # Ruby
 .rake_test_cache
 .rvmrc
