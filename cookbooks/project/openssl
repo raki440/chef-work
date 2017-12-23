@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:supermarket.chef.io,2005:/cookbooks/openssl</id>
+  <link rel="alternate" type="text/html" href="https://supermarket.chef.io"/>
+  <link rel="self" type="application/atom+xml" href="https://supermarket.chef.io/cookbooks/openssl"/>
+  <title>openssl versions</title>
+  <updated>2017-12-12T00:35:32Z</updated>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/23174</id>
+    <published>2017-12-12T00:35:32Z</published>
+    <updated>2017-12-12T00:35:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/8.0.0"/>
+    <title>openssl - v8.0.0</title>
+    <content type="html">        &lt;p&gt;Resources and libraries for interacting with certificates, keys, passwords, and dhparam files.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="8-0-0-2017-12-11"&gt;8.0.0 (2017-12-11)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Added a new openssl_rsa_public_key resource which generates a public key&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/8.0.0#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/21580</id>
+    <published>2017-05-30T19:21:49Z</published>
+    <updated>2017-05-30T19:21:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/7.1.0"/>
+    <title>openssl - v7.1.0</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="7-1-0-2017-05-30"&gt;7.1.0 (2017-05-30)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add supported platforms to the metdata&lt;/li&gt;
+&lt;li&gt;Fix amazon support&lt;/li&gt;
+&lt;li&gt;Remove&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/7.1.0#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/20540</id>
+    <published>2017-03-21T22:36:40Z</published>
+    <updated>2017-03-21T22:36:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/7.0.1"/>
+    <title>openssl - v7.0.1</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="7-0-1-2017-03-21"&gt;7.0.1 (2017-03-21)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fix compatibility with Chef 12.5.1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="7-0-0-2017-03-06"&gt;7.0.0 (2017-03-06)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Converted LWRPs to&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/7.0.1#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/20250</id>
+    <published>2017-03-06T21:46:44Z</published>
+    <updated>2017-03-06T21:46:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/7.0.0"/>
+    <title>openssl - v7.0.0</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="7-0-0-2017-03-06"&gt;7.0.0 (2017-03-06)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Converted LWRPs to custom resources, increasing the chef-client dependency to&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/7.0.0#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/19659</id>
+    <published>2017-01-19T17:38:25Z</published>
+    <updated>2017-01-19T17:38:25Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/6.1.1"/>
+    <title>openssl - v6.1.1</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="6-1-1-2017-01-19"&gt;6.1.1 (2017-01-19)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Resolve deprecation warnings in chefspec&lt;/li&gt;
+&lt;li&gt;Use proper ::File class and&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/6.1.1#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/19650</id>
+    <published>2017-01-18T19:42:22Z</published>
+    <updated>2017-01-18T19:42:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/6.1.0"/>
+    <title>openssl - v6.1.0</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="6-1-0-2017-01-18"&gt;6.1.0 (2017-01-18)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[#37] Support for Subject Alternative Names on generated self-signed certificates&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/6.1.0#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/18013</id>
+    <published>2016-09-08T23:50:26Z</published>
+    <updated>2016-09-08T23:50:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/6.0.0"/>
+    <title>openssl - v6.0.0</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="6-0-0-2016-09-08"&gt;6.0.0 (2016-09-08)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Update the minimum chef release to 12.1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="5-0-1-2016-09-01"&gt;5.0.1 (2016-09-01)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Update&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/6.0.0#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/17822</id>
+    <published>2016-09-01T21:15:20Z</published>
+    <updated>2016-09-01T21:15:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/5.0.1"/>
+    <title>openssl - v5.0.1</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="5-0-1-2016-09-01"&gt;5.0.1 (2016-09-01)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Update docs from node.normal as node.set has been deprecated&lt;/li&gt;
+&lt;li&gt;Testing&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/5.0.1#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/12703</id>
+    <published>2015-08-28T23:30:50Z</published>
+    <updated>2016-09-01T21:10:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/4.4.0"/>
+    <title>openssl - v4.4.0</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="v4-4-0-2015-08-28"&gt;v4.4.0 (2015-08-28)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NEW: x509 certificates are now signed via SHA-256 instead of&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/4.4.0#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/12245</id>
+    <published>2015-08-02T02:01:48Z</published>
+    <updated>2015-08-02T02:01:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/4.3.2"/>
+    <title>openssl - v4.3.2</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="v4-3-2-2015-08-01"&gt;v4.3.2 (2015-08-01)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;FIX: Updated changelog&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="v4-3-2015-08-01"&gt;v4.3 (2015-08-01)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NEW: Add rsa_key lwrp&lt;/li&gt;
+&lt;li&gt;FIX&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/4.3.2#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/12244</id>
+    <published>2015-08-02T01:59:55Z</published>
+    <updated>2015-08-02T01:59:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/4.3.1"/>
+    <title>openssl - v4.3.1</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;p&gt;v4.3.1 (2015-08-01)
+- FIX: Updated changelog&lt;/p&gt;
+
+&lt;h2 id="v4-3-2015-08-01"&gt;v4.3 (2015-08-01)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NEW: Add rsa_key lwrp&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/4.3.1#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/12243</id>
+    <published>2015-08-02T01:52:42Z</published>
+    <updated>2015-08-02T01:52:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/4.3.0"/>
+    <title>openssl - v4.3.0</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="v4-2-2015-06-23"&gt;v4.2 (2015-06-23)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NEW: Add dhparam lwrp&lt;/li&gt;
+&lt;li&gt;FIX: x509 lwrp now updates resource&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/4.3.0#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/11701</id>
+    <published>2015-06-23T15:39:42Z</published>
+    <updated>2015-06-23T15:39:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/4.2.0"/>
+    <title>openssl - v4.2.0</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="v4-2-2015-06-23"&gt;v4.2 (2015-06-23)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NEW: Add dhparam lwrp&lt;/li&gt;
+&lt;li&gt;FIX: x509 lwrp now updates resource&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/4.2.0#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/11667</id>
+    <published>2015-06-20T23:56:59Z</published>
+    <updated>2015-06-20T23:57:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/4.1.2"/>
+    <title>openssl - v4.1.2</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="v4-1-2-2015-06-20"&gt;v4.1.2 (2015-06-20)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add Serverspec suite&lt;/li&gt;
+&lt;li&gt;Removed update suite from .kitchen.yml&lt;/li&gt;
+&lt;li&gt;Add explicit&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/4.1.2#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/11529</id>
+    <published>2015-06-11T22:27:34Z</published>
+    <updated>2015-06-11T22:27:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/4.1.1"/>
+    <title>openssl - v4.1.1</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="v4-1-1-2015-06-11"&gt;v4.1.1 (2015-06-11)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;README.md fixes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="v4-1-0-2015-06-11"&gt;v4.1.0 (2015-06-11)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add new random_password Mixin (Thanks, Seth!)&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/4.1.1#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/11528</id>
+    <published>2015-06-11T22:00:10Z</published>
+    <updated>2015-06-11T22:00:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/4.1.0"/>
+    <title>openssl - v4.1.0</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="v4-1-0-2015-06-11"&gt;v4.1.0 (2015-06-11)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add new random_password Mixin (Thanks, Seth!)&lt;/li&gt;
+&lt;li&gt;Rewritten README.md&lt;/li&gt;
+&lt;li&gt;Refactor specs&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/4.1.0#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/10021</id>
+    <published>2015-02-19T22:50:28Z</published>
+    <updated>2015-02-19T22:50:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/4.0.0"/>
+    <title>openssl - v4.0.0</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="v4-0-0-2014-02-19"&gt;v4.0.0 (2014-02-19)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reverting to Opscode module namespace&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="v3-0-2-2014-12-30"&gt;v3.0.2 (2014-12-30)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Accidently released 2.0.2&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/4.0.0#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/9979</id>
+    <published>2015-02-18T22:55:23Z</published>
+    <updated>2015-02-18T22:55:24Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/3.0.2"/>
+    <title>openssl - v3.0.2</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="v3-0-0-2014-02-17"&gt;v3.0.0 (2014-02-17)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Changing helper module name from Opscode to OpenSSLCookbook&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="v2-0-2-2014-12-30"&gt;v2.0.2 (2014-12-30)&lt;/h2&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/3.0.2#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/9332</id>
+    <published>2014-12-30T19:08:33Z</published>
+    <updated>2014-12-30T19:08:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/2.0.2"/>
+    <title>openssl - v2.0.2</title>
+    <content type="html">        &lt;p&gt;Provides a library with a method for generating secure random passwords.&lt;/p&gt;
+        &lt;h1 id="openssl-cookbook-changelog"&gt;openssl Cookbook CHANGELOG&lt;/h1&gt;
+&lt;p&gt;This file is used to list changes made in each version of the openssl cookbook.&lt;/p&gt;
+
+&lt;h2 id="v2-0-2-2014-12-30"&gt;v2.0.2 (2014-12-30)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Call cert.to_pem before recipe DSL&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="v2-0-0-2014-06-11"&gt;v2.0.0 (2014-06-11)&lt;/h2&gt;
+
+&lt;h1 id="1-cook-847-add-lwrp-for-generating-self-signed-certs"&gt;1 - [COOK-847]&lt;/h1&gt;
+        &lt;p&gt;&lt;a href="https://supermarket.chef.io/cookbooks/openssl/versions/2.0.2#changelog"&gt;View Full Changelog&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/3734</id>
+    <published>2014-06-11T20:12:49Z</published>
+    <updated>2014-06-11T20:12:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/2.0.0"/>
+    <title>openssl - v2.0.0</title>
+    <content type="html">Provides a library with a method for generating secure random passwords.</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/3733</id>
+    <published>2013-08-28T19:46:02Z</published>
+    <updated>2013-08-28T19:46:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/1.1.0"/>
+    <title>openssl - v1.1.0</title>
+    <content type="html">Provides a library with a method for generating secure random passwords.</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/3732</id>
+    <published>2013-03-09T19:23:55Z</published>
+    <updated>2013-06-13T10:15:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/1.0.2"/>
+    <title>openssl - v1.0.2</title>
+    <content type="html">Provides a library with a method for generating secure random passwords.</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/3731</id>
+    <published>2011-06-04T02:50:06Z</published>
+    <updated>2011-06-04T02:50:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/1.0.0"/>
+    <title>openssl - v1.0.0</title>
+    <content type="html">Provides a library with a method for generating secure random passwords.</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:supermarket.chef.io,2005:CookbookVersion/3730</id>
+    <published>2010-02-26T22:37:56Z</published>
+    <updated>2011-03-31T09:48:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://supermarket.chef.io/cookbooks/openssl/versions/0.1.0"/>
+    <title>openssl - v0.1.0</title>
+    <content type="html">Installs/Configures openssl</content>
+    <author>
+      <name>chef</name>
+      <uri>https://supermarket.chef.io/users/chef</uri>
+    </author>
+  </entry>
+</feed>
